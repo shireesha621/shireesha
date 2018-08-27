@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12519" started-at="2018-08-23T13:08:56Z" finished-at="2018-08-23T13:09:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12519" started-at="2018-08-23T13:08:56Z" finished-at="2018-08-23T13:09:09Z">
+      <class name="mavenpckg1.Class1">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:mavenpckg1.Class1@36b4cef0]" name="launchapplication" duration-ms="12441" started-at="2018-08-23T13:08:56Z" finished-at="2018-08-23T13:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+      </class> <!-- mavenpckg1.Class1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
